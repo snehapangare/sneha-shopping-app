@@ -2,7 +2,9 @@
 
 A modern and responsive mini eCommerce application built using **React**, **Redux Toolkit**, and **FakeStoreAPI**.  
 The app displays products in a clean grid layout and allows users to add/remove items from the cart.
+
 ---
+
 ## 🚀 Features
 
 - Fetches product data from **FakeStoreAPI**
@@ -29,6 +31,7 @@ The app displays products in a clean grid layout and allows users to add/remove 
 - **Vite**
 - **FakeStoreAPI**
 - **CSS / Styled Components**
+
 ---
 ## 📦 Installation & Setup
 
