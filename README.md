@@ -1,16 +1,44 @@
-# React + Vite
+# 🛒 React Shopping Cart (React + Redux Toolkit + FakeStoreAPI)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive mini eCommerce application built using **React**, **Redux Toolkit**, and **FakeStoreAPI**.  
+The app displays products in a clean grid layout and allows users to add/remove items from the cart.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## React Compiler
+- Fetches product data from **FakeStoreAPI**
+- Product grid layout (4 columns × multiple rows)
+- Add to cart / remove from cart functionality
+- Redux Toolkit used for global state management
+- Modern UI with hover effects and card layout
+- Fully responsive design
+- Clean and simple code structure
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+### 🧩 Product Listing Page  
+<img width="1888" height="913" alt="addToCart1" src="https://github.com/user-attachments/assets/6f79fa0e-a2c3-4269-ba2f-5a5f0f33c74e" />
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 🛍️ Cart Section  
+<img width="1847" height="890" alt="addToCart2" src="https://github.com/user-attachments/assets/97c1a56d-3d86-4f14-8e38-952b09793e83" />
+
+---
+
+## 🛠️ Tech Stack
+
+- **React**
+- **Redux Toolkit**
+- **JavaScript (ES6+)**
+- **Vite**
+- **FakeStoreAPI**
+- **CSS / Styled Components**
+
+---
+
+## 📦 Installation & Setup
+
+Clone the repository:
+
+```bash
+git clone https://github.com/your-username/your-repo-name.git
